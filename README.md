@@ -19,7 +19,7 @@ status_led:
   pin: GPIO2
 ```
 
-Or use the ```soyodisplaypro.yaml``` file in the esphome directory.
+Or use the [```soyodisplaypro.yaml```](https://raw.githubusercontent.com/pvtex/SoyoSource_Controller/master/esphome/soyodisplaypro.yaml) file in the esphome directory.
     
 ## external Controller 
 in din rail case. needs another adapter cable in the inverter. this adapter cable adds an external connector for the display port.   
