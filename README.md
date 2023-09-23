@@ -13,12 +13,13 @@ rx_pin_ttl_wifi: GPIO13
 tx_pin_rs485: GPIO16
 rx_pin_rs485: GPIO5
 ```
-
 And add these lines to activate the status LED:
 ```
 status_led:
   pin: GPIO2
 ```
+
+Or use the ```soyodisplaypro.yaml``` file in the esphome directory.
     
 ## external Controller 
 in din rail case. needs another adapter cable in the inverter. this adapter cable adds an external connector for the display port.   
